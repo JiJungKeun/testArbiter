@@ -20,6 +20,7 @@ import android.view.View;
 import android.widget.TextView;
 
 public class About {
+	public double tempValue = 0.0;
 	private Activity activity;
 	public static final Locale DEFAULT_LOCALE = Locale.ENGLISH;
 	
